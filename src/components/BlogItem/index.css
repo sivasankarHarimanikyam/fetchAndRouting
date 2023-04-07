@@ -1,0 +1,32 @@
+.item-container {
+  width: 800px;
+  border: 2px solid #8e8e8e;
+  background-color: transparent;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+}
+.item-info {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+.author-info {
+  display: flex;
+  padding: 5px;
+}
+.item-title {
+  color: #000000;
+  font-weight: bold;
+}
+.pic-edit {
+  width: 10%;
+  height: 10%;
+  border-radius: 40px;
+}
+.pic-edit1 {
+  width: 200px;
+  height: 100px;
+}
